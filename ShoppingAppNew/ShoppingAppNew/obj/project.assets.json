@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Azure Training\\Day 18\\git\\ShoppingAppNew\\ShoppingAppNew\\ShoppingAppNew.csproj",
+      "projectUniqueName": "G:\\Azure Training\\ShoppingApp_CI_CD_Practice\\ShoppingAppNew\\ShoppingAppNew\\ShoppingAppNew.csproj",
       "projectName": "ShoppingAppNew",
-      "projectPath": "G:\\Azure Training\\Day 18\\git\\ShoppingAppNew\\ShoppingAppNew\\ShoppingAppNew.csproj",
+      "projectPath": "G:\\Azure Training\\ShoppingApp_CI_CD_Practice\\ShoppingAppNew\\ShoppingAppNew\\ShoppingAppNew.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "G:\\Azure Training\\Day 18\\git\\ShoppingAppNew\\ShoppingAppNew\\obj\\",
+      "outputPath": "G:\\Azure Training\\ShoppingApp_CI_CD_Practice\\ShoppingAppNew\\ShoppingAppNew\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

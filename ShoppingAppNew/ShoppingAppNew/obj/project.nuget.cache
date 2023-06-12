@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2uN9vOBExKWoIlQkV4EuW2pFcit3aVTZZ4sxVqruDGIc4xVr1NiqKO9Mq8g3SMFDpwOuZpTsno/9jx0gNRSKrg==",
+  "dgSpecHash": "39kZqcYOknBOP+MpUOsH0lozwuEcTlfeeeoXnpRcK5BBpdG43tAc7TOguLvhlmi0Ysnmxt/lVPPcfI+Hu0kytQ==",
   "success": true,
-  "projectFilePath": "G:\\Azure Training\\Day 18\\git\\ShoppingAppNew\\ShoppingAppNew\\ShoppingAppNew.csproj",
+  "projectFilePath": "G:\\Azure Training\\ShoppingApp_CI_CD_Practice\\ShoppingAppNew\\ShoppingAppNew\\ShoppingAppNew.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
